@@ -1,6 +1,6 @@
 Hello, I'm Barry Hoggard -- a software engineer and an [art collector](https://www.hoggardwagner.org/).
 
-**I'm looking for a new position!**
+**I'm looking for a new remote position!**
 
 I'm hoping to find a staff-level IC role.
 
