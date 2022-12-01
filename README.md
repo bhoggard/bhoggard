@@ -2,7 +2,7 @@ Hello, I'm Barry Hoggard -- a software engineer and an [art collector](https://w
 
 **I'm looking for a new remote position!**
 
-I'm hoping to find a staff-level IC role.
+I'm hoping to find a senior IC role.
 
 I have primarily programmed in Ruby, along with Scala, TypeScript, React, GraphQL (Relay), and React Native.
 
