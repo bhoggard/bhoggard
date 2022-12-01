@@ -12,7 +12,7 @@ I'm currently working on a new front-end website for our art collection, using [
 
 ## How to reach me
 
-* [Email](bhoggard@gmail.com)
+* [Email](mailto:bhoggard@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/barry-hoggard/)
 
 <!--
