@@ -2,6 +2,8 @@ Hello, I'm Barry Hoggard -- a software engineer and an [art collector](https://w
 
 **I'm looking for a new position!**
 
+I'm hoping to find a staff-level IC role.
+
 I have primarily programmed in Ruby, along with Scala, TypeScript, React, GraphQL (Relay), and React Native.
 
 I'm very interested in functional programming, so I've created side projects in Clojure and Elixir, and would love to find a position where I can work in a functional language.
