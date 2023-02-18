@@ -2,13 +2,13 @@ Hello, I'm Barry Hoggard -- a software engineer and an [art collector](https://w
 
 **I'm looking for a new remote position!**
 
-I'm hoping to find a senior IC role.
+I'm hoping to find a senior/staff software engineer role.
 
 I have primarily programmed in Ruby, along with Scala, Node.js, TypeScript, React, GraphQL (Relay), and React Native.
 
 I'm very interested in functional programming, so I've created side projects in Clojure and Elixir, and would love to find a position where I can work in a functional language.
 
-I'm currently working on a new front-end website for our art collection, using [sanity.io](https://www.sanity.io/) and [the Clojure Kit Framework](https://kit-clj.github.io/).
+I'm currently working on a new front-end website for our art collection, using [sanity.io](https://www.sanity.io/) and [Next.js](https://nextjs.org/).
 
 ## How to reach me
 
