@@ -4,7 +4,7 @@ Hello, I'm Barry Hoggard -- a software engineer and an [art collector](https://w
 
 I'm hoping to find a senior/staff software engineer role.
 
-I have primarily programmed in Ruby, along with Scala, Elixir, Node.js, TypeScript, React, GraphQL (Relay), and React Native.
+I have primarily programmed in Ruby, along with Scala, Node.js, TypeScript, React, GraphQL (Relay), and React Native.
 
 I'm very interested in functional programming, so I've created side projects in Clojure and Elixir, and would love to find a position where I can work in a functional language.
 
