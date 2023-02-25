@@ -8,8 +8,6 @@ I have primarily programmed in Ruby, along with Scala, Node.js, TypeScript, Reac
 
 I'm very interested in functional programming, so I've created side projects in Clojure and Elixir, and would love to find a position where I can work in a functional language.
 
-I'm currently working on a new front-end website for our art collection, using [sanity.io](https://www.sanity.io/) and [Next.js](https://nextjs.org/).
-
 ## How to reach me
 
 * [Email](mailto:bhoggard@gmail.com)
