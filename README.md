@@ -2,7 +2,7 @@ Hello, I'm Barry Hoggard -- a software engineer and an [art collector](https://w
 
 ## How to reach me
 
-* [Email](mailto:bhoggard@gmail.com)
+* [Email](mailto:barry@hoggard.org)
 * [LinkedIn](https://www.linkedin.com/in/barry-hoggard/)
 
 <!--
