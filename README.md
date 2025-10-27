@@ -1,4 +1,4 @@
-Hello, I'm Barry Hoggard -- a software engineer and an [art collector](https://www.artworkarchive.com/profile/hoggard-wagner).
+Hello, I'm Barry Hoggard -- a backend software engineer and an [art collector](https://www.artworkarchive.com/profile/hoggard-wagner).
 
 ## How to reach me
 
