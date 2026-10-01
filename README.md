@@ -3,7 +3,6 @@ Hello, I'm Barry Hoggard -- a backend software engineer and an [art collector](h
 ## How to reach me
 
 * [Email](mailto:barry@hoggard.org)
-* [LinkedIn](https://www.linkedin.com/in/barry-hoggard/)
 
 <!--
 **bhoggard/bhoggard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
